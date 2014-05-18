@@ -1,0 +1,12 @@
+{
+  "name": "express-examples",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.2.0"
+  },
+  "devDependencies": {},
+  "author": "wookets",
+  "license": "ISC"
+}
